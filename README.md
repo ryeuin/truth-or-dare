@@ -1,8 +1,6 @@
 # Truth or Dare
 
-This project is hosted with [repl.it](https://replit.com), see the public post [here](https://replit.com/@choerry/Truth-Or-Dare).
-
-The perfect game to play with friends, or yourself! Get prompted with various Truth, Dare, or Would You Rather questions! 
+The perfect game to play with friends, or yourself! Get prompted with various Truth, Dare, or Would You Rather questions. This project is hosted with [repl.it](https://replit.com), see the public post [here](https://replit.com/@choerry/Truth-Or-Dare). 
 
 **[Live Demo](https://Truth-Or-Dare.choerry.repl.co)**　 **[Credits](#credits)**　 
 
